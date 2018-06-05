@@ -1,0 +1,7 @@
+Dflt Constructor - took -     0 milliseconds
+Constructor      - took -  4033 milliseconds
+Copy Assignment  - took -   207 milliseconds
+Move Assignment  - took -   158 milliseconds
+Copy Constructor - took -   207 milliseconds
+Move Constructor - took -     0 milliseconds
+Destructor       - took -   313 milliseconds
